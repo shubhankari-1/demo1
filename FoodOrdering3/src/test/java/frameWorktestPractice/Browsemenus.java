@@ -51,6 +51,7 @@ public class Browsemenus {
 		System.out.println("hello");
 		System.out.println("hello world");
 		System.out.println("earth");
+		System.out.println("hello");
 		driver.quit();
 		
 	}
