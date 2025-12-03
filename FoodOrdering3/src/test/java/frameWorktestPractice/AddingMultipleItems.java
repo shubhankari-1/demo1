@@ -43,8 +43,10 @@ public class AddingMultipleItems {
         WebElement value = driver.findElement(By.xpath("//div[@class='price-wrap text-xs-center']"));
         System.out.println(value.getText());
         System.out.println("hello world");
+		 System.out.println("hello world1");
         driver.quit();
 
 	}
 
 }
+
