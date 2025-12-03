@@ -50,7 +50,9 @@ public class Browsemenus {
 		System.out.println(menu2.getText());
 		System.out.println("hello");
 		System.out.println("hello world");
+		System.out.println("earth");
 		driver.quit();
+		
 	}
 
 }
