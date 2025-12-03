@@ -42,6 +42,7 @@ public class AddingMultipleItems {
         js.executeScript("window.scrollBy(0,500)");
         WebElement value = driver.findElement(By.xpath("//div[@class='price-wrap text-xs-center']"));
         System.out.println(value.getText());
+        System.out.println("hello world");
         driver.quit();
 
 	}
