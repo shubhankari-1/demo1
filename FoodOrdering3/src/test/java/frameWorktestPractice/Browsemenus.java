@@ -49,6 +49,7 @@ public class Browsemenus {
 		WebElement menu2 = driver.findElement(By.linkText("Lemon Grilled Chicken And Pasta"));
 		System.out.println(menu2.getText());
 		System.out.println("hello");
+		System.out.println("hello world");
 		driver.quit();
 	}
 
